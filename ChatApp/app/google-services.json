@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "157320769582",
+    "firebase_url": "https://friendly-chat-app-917e5.firebaseio.com",
+    "project_id": "friendly-chat-app-917e5",
+    "storage_bucket": "friendly-chat-app-917e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157320769582:android:45cfd36e718d0f91",
+        "android_client_info": {
+          "package_name": "com.manas.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157320769582-dg9674vj0gra2dv4a9coeetrm3509d47.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "157320769582-dg9674vj0gra2dv4a9coeetrm3509d47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1uDJTDGNsP54r3VRmtGfCUGge6DmIuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
