@@ -124,6 +124,7 @@ public class CatalogActivity extends AppCompatActivity implements LoaderManager.
     public void onLoaderReset(Loader<Cursor> loader) {
          mCursorAdaptor.swapCursor(null);
     }
+
     private void showDeleteConfirmationDialog() {
         // Create an AlertDialog.Builder and set the message, and click listeners
         // for the postivie and negative buttons on the dialog.
