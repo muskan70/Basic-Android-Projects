@@ -17,15 +17,15 @@ This repository consists of android apps made during course done from Udacity. E
 
 ## Step3: Multiscreen Apps
 
-- **Miwok App**
+- **Miwok App** -> This app is used to learn english to hindi trannslation of common words using audio features. It includes list of colours,numbers,phrases and family members. In this app, audio player implementation ,list adaptor and fragment implementation is done.This whole app is an example of how a multiscreen app works.
 
 ## Step4: Network Connection
 
-- **Earthquake Report App**
+- **Earthquake Report App** -> This app is used to get information regarding latest earthquakes from an official site. In this app, how to make an Http request and further process a json data is implemented.
 
 ## Step5: Database Storage
 
-- **Pets App**
+- **Pets App** -> This app is used to store information of all the pet dogs of a dog house in a database. It includes features like add a pet, delete a pet, update a pet and view all pets. This app implements sqlite database connection to an app.
 
 ## Step6: Fragment App
 
