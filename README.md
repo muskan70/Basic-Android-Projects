@@ -29,12 +29,9 @@ This repository consists of android apps made during course done from Udacity. E
 
 ## Step6: Fragment App
 
-- **Fun App**
+- **Fun App** -> This app is a simple kids game with different shapes of body, head and leg given. One has to choose a set of body,head and leg to make a human.In this app, how to make use of fragments is implemented.
 
 ## Step7: Firebase App
 
-- **Chat App**
+- **Chat App** -> This app is a simple chat app where a group of people can chat among themselves. This app is based on firebase application. It includes firebase authentication, firebase database storage and photo storage features. All the messages and photos shared in this app are stored in firebase account.
 
-## Step8: Final Project
-
-- **Stocks App** 
