@@ -21,7 +21,7 @@ This repository consists of android apps made during course done from Udacity. E
 
 ## Step4: Network Connection
 
-- **[Earthquake Report App](./EarthquakeReportApp]** -> This app is used to get information regarding latest earthquakes from an official site. In this app, how to make an Http request and further process a json data is implemented.
+- **[Earthquake Report App](./EarthquakeReportApp)** -> This app is used to get information regarding latest earthquakes from an official site. In this app, how to make an Http request and further process a json data is implemented.
 
 ## Step5: Database Storage
 
